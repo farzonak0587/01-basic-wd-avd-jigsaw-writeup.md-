@@ -9,11 +9,11 @@
 We were still in Web Design, Unit 1, but this time the theme was Applied Visual Design. Although this covered the fundamentals of CSS, some of the subjects were far more complex. For instance, there were the basics, typography, geometry, colors, animation, and positioning. You could use a lot more of the new elements for decorating your webpage.
 
 #### Basics of Applied Visual Design: 
-* Basics ( strong/bold `strong`, u/underline `u`, em/italicized `em`, strikethrough `s`,horizontal line `hr`,`opacity`, `box-shadow` and other CSS basics)
+* Basics ( bold `strong`, underline `u`, /italicized `em`, strikethrough `s`,horizontal line `hr`,`opacity`, `box-shadow` and other CSS basics)
 * Typography ( `text-transform:`, Font Size, `font-weight:#px`, `line-heigt:#px` and Hover) 
 * Colors ( Hex Codes, Dominant and Complementary colors, `linear-gradient`,`repeating-linear-gradient`, HSL and Subtle Pattern for Background)
 * Positioning ( `position: relative`, `position: absoulte`, `position: fixed`, `float: direction`, `z-index` and `margin:auto`)
-* Geometry (`transform: scale(#)`,`transform: skewY (#deg)`, skewX, :before, and :after )
+* Geometry (`transform: scale(#)`,`transform: skewY (#deg)`, `skewX`, `:before`, and `:after` )
 * Animation ( `animation:name;`, `animation-duration: #ms;`,`Content:hover`,`Animation-Iteration-Count: #;`,Keyframes, Opactiy,and Movement)
  
 
@@ -40,4 +40,7 @@ We had to begin creating our [webpage](https://app.pickcode.io/share/cm3ndop7x9s
 
 ### Takeaways
 The things I really need to remember are:
-* 
+* **PRACTICE** before presenting, so the presentation goes smoothly
+* In contrast to `position: absoulte`, which lets it go with the flow and forgets that an element was ever there if you move it, meaning that there is no space where there would be with `position: relative`.
+* Keyframes allows you to have more creative control over the animation you create.
+
