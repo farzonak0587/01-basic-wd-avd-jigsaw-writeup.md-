@@ -1,4 +1,4 @@
-# # Process Writeup
+# Process Writeup
 
 ## Name: Farzona K
 ## Course: SEP10 Web Design
