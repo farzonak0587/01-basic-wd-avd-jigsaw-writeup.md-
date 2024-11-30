@@ -44,6 +44,16 @@ left:15px;
 ```
 would just move it 15 pixels to the left. 
 
+My group and I didn't give it much thought and simply presented it as though that was the difference. However, the other group, which also had positioning as a topic, was having trouble with `position: relative` and `position: absolute`. My teacher showed us the distinction, which was different from what we had assumed, after observing that both groups were having difficulty and that students were not truly understanding it. What he showed us was 
+
+giving the H2 `position: relative`: ![image](https://github.com/user-attachments/assets/248bd806-6bdc-46a2-a4dd-71ae4022fe85)
+giving the H2 `position: absolute`:![image](https://github.com/user-attachments/assets/8a9eca6e-c35a-438d-b8a4-a95aeca3bd83)
+
+
+
+
+
+
 
 ### Challenge 2
 
