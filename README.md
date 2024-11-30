@@ -12,7 +12,7 @@ We were still in Web Design, Unit 1, but this time the theme was Applied Visual 
 * Basics ( bold `strong`, underline `u`, /italicized `em`, strikethrough `s`,horizontal line `hr`,`opacity`, `box-shadow` and other CSS basics)
 * Typography ( `text-transform:`, Font Size, `font-weight:#px`, `line-heigt:#px` and Hover) 
 * Colors ( Hex Codes, Dominant and Complementary colors, `linear-gradient`,`repeating-linear-gradient`, HSL and Subtle Pattern for Background)
-* Positioning ( `position: relative`, `position: absoulte`, `position: fixed`, `float: direction`, `z-index` and `margin:auto`)
+* Positioning ( `position: relative`, `position: absolute`, `position: fixed`, `float: direction`, `z-index` and `margin:auto`)
 * Geometry (`transform: scale(#)`,`transform: skewY (#deg)`, `skewX`, `:before`, and `:after` )
 * Animation ( `animation:name;`, `animation-duration: #ms;`,`Content:hover`,`Animation-Iteration-Count: #;`,Keyframes, Opactiy,and Movement)
  
@@ -49,14 +49,12 @@ My group and I didn't give it much thought and simply presented it as though tha
 giving the H2 `position: relative`: ![image](https://github.com/user-attachments/assets/248bd806-6bdc-46a2-a4dd-71ae4022fe85)
 giving the H2 `position: absolute`:![image](https://github.com/user-attachments/assets/8a9eca6e-c35a-438d-b8a4-a95aeca3bd83)
 
-
-
-
-
-
+I now understood what `position: absolute` meant after seeing what he showed us. By using `position: absolute`, the elements surrounding a particular element simply forget it exists and carry with their necessary tasks. similar to how `position: absolute` caused the h3 to move up over the h2.**THE ELEMENTS AROUND A ELEMENT WITH `POSITION: ABSOLUTE` IGNORE THAT THE ELEMENT IS EVEN THERE. WHILE WITH  `POSITION: RELATIVE` IT DOESNT IGNORE IT. **
 
 ### Challenge 2
+Anotherthing my group made a mistake on was that we didn't really practice/rehearse for our presentation because everyone knew what to say. For the presentation.md, we all had to put what we were going to say during the ppresentation,and we ddid,but one of my group mates didn't write it down and didn't tell us what he was going to say. Then the presentation came,and my group mates were just confused because we couldn't hear him,and we had no clue what he was trying to say, so then we just went on with the presentation by explaining the lessons. 
 
+We realized that we definitely need to practice our presentation skills after making a mistake that cost us some points during the presentation. 
 
 ### Challenge 3
 
