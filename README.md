@@ -32,12 +32,19 @@ There was onyl 7 [Free Code Camp Lessons](https://freecodecamp.org/](https://www
 We had to begin creating our [webpage](https://app.pickcode.io/share/cm3ndop7x9svk9fpuzivm2qnp) after we had completed the lessons and taken notes on each one. The purpose of the webpage was to explain the teachings to the other students in my class. During class, we worked on our portions of the webpage after first laying it out. We went with the flow because we didn't really have a clear plan. Following the completion of our webpage, we got to work on our presentation. During the presentation, we had to be aware of what to say and do. After outlining the main concepts of our presentation in writing, we presented. Presentations followed the order of the classes; for instance, those who had the basics presented first, followed by colors, positioning, geometry, and animation. 
 
 ### Challenge 1
-I didn't really struggle with the Free Code Camp lessons because they were rather simple, but I struggled to understand relative and absolute positioning when I was creating the webpage. Since they both changed an element's position, I assumed they were the same thing in the Free Code Camp lessons. The only distinction I could think of was that you had to use the opposite direction from which you were attempting to move it when using `position: relative`. For example,: 
+I didn't really struggle with the Free Code Camp lessons because they were rather simple, but I struggled to understand relative and absolute positioning when I was creating the webpage. Since they both changed an element's position, I assumed they were the same thing in the Free Code Camp lessons. The only distinction I could think of was that you had to use the opposite direction from which you were attempting to move it when using `position: relative`. For example: 
 ```CSS
 position:relative;
 top:15px;
 ```
-would move it 15px **AWAY** from the top. It would move it towards the bottom.
+would move it 15px **AWAY** from the top. It would move it towards the bottom.However, the opposite directions were not used by `position: absolute`. For instance: 
+```CSS
+position:absoulte;
+left:15px;
+```
+would just move it 15 pixels to the left. 
+
+
 ### Challenge 2
 
 
