@@ -56,6 +56,16 @@ Anotherthing my group made a mistake on was that we didn't really practice/rehea
 We realized that we definitely need to practice our presentation skills after making a mistake that cost us some points during the presentation. 
 
 ### Challenge 3
+I first got lost by `@keyframes` since I was unable to understand the topic being discussed by the group presenting about animation. It was confusing because they didn't really focus on the subject. 
+Here is what the groups put for their presentations: 
+1. ![image](https://github.com/user-attachments/assets/35a2da10-731e-409d-8f39-252991660084)
+2. ![image](https://github.com/user-attachments/assets/948367bf-4983-42cc-b950-f8f6db1d85c9)
+3. ![image](https://github.com/user-attachments/assets/f57b22d0-b668-4745-8720-814a32afe64b)
+
+As far as I was aware, it was used to create animations, and you could alter their styles using `@keyframes`. But what was the difference between using  `@keyframes` and just putting it in the {} selector brackets for that specific element?
+
+
+
 
 ### Takeaways
 The things I really need to remember are:
