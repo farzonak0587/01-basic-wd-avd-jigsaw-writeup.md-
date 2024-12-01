@@ -58,13 +58,14 @@ We realized that we definitely need to practice our presentation skills after ma
 ### Challenge 3
 I first got lost by `@keyframes` since I was unable to understand the topic being discussed by the group presenting about animation. It was confusing because they didn't really focus on the subject. 
 Here is what the group put for their presentations: 
-1.
- ![image](https://github.com/user-attachments/assets/35a2da10-731e-409d-8f39-252991660084)
+
+1. ![image](https://github.com/user-attachments/assets/35a2da10-731e-409d-8f39-252991660084)
 
 As far as I was aware, it was used to create animations, and you could change their styles using `@keyframes`. But what was the difference between using  `@keyframes` and just putting it in the {} selector brackets for that specific element/animation?
 
-When I was trying to understand what `@keyframes` were in the other presentations, I discovered that they were actually checkpoints in the animation timeline. By changing these checkpoints, we can make changes. Additionally, they have control over the animation's events. EXAMPLE: 
-![images](https://github.com/user-attachments/assets/b7a3e06a-d964-4308-bc5a-9ad9c6af4a01)
+When I was trying to understand what `@keyframes` were in the other presentations, I discovered that they were actually checkpoints in the animation timeline. By changing these checkpoints, we can make changes. Additionally, they have control over the animation's events.
+
+EXAMPLE: ![images](https://github.com/user-attachments/assets/b7a3e06a-d964-4308-bc5a-9ad9c6af4a01)
 
 You could change what occurs in each section of the animation by using `@keyframes`. Because the element is altered using keyframes, what it does throughout the entire animation would not be the same.
 
